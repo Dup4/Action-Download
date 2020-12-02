@@ -1,2 +1,1 @@
-https://github.com/BlankerL/DXY-COVID-19-Data/releases/download/2020.11.27/DXYOverall.csv
-https://github.com/BlankerL/DXY-COVID-19-Data/releases/download/2020.11.27/DXYOverall.json
+https://www.domjudge.org/releases/domjudge-7.1.1.tar.gz
